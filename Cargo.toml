@@ -1,6 +1,6 @@
 [package]
 name = "web3-mongo-types"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2021"
 description = "A library for converting Ethereum transaction receipts from web3 to MongoDB BSON documents"
 license = "MIT"
