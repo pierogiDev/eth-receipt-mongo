@@ -16,7 +16,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-web3-mongo-types = "0.1.0"
+web3-mongo-types = { git = "https://github.com/pierogiDev/eth-receipt-mongo" }
 ```
 
 ### Basic Example
